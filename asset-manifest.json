@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/TechHubAcademy/static/css/main.8ed04500.css",
+    "main.js": "/TechHubAcademy/static/js/main.3bfed76a.js",
+    "static/js/453.419a5d54.chunk.js": "/TechHubAcademy/static/js/453.419a5d54.chunk.js",
+    "static/media/Hero.jpg": "/TechHubAcademy/static/media/Hero.30e1155e636eb57c7693.jpg",
+    "index.html": "/TechHubAcademy/index.html",
+    "main.8ed04500.css.map": "/TechHubAcademy/static/css/main.8ed04500.css.map",
+    "main.3bfed76a.js.map": "/TechHubAcademy/static/js/main.3bfed76a.js.map",
+    "453.419a5d54.chunk.js.map": "/TechHubAcademy/static/js/453.419a5d54.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8ed04500.css",
+    "static/js/main.3bfed76a.js"
+  ]
+}
