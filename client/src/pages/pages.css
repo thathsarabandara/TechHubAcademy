@@ -1,0 +1,8 @@
+.bg-img {
+    background-image: url('/public/img/Hero.jpg'); /* Adjust the path as necessary */
+    background-size: cover;
+    background-position: center;
+    width: 100%;
+    height:100vh;
+  }
+  
