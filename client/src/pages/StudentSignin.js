@@ -9,7 +9,7 @@ function StudentSignin() {
           <input className='border border-black border-5 w-full p-3 bg-gray-300 text-black font-bold mb-4' type='text' placeholder='FullName' />
           <input className='border border-black border-5 w-full p-3 bg-gray-300 text-black font-bold mb-4' type='email' placeholder='Email' />
           <input className='border border-black border-5 w-full p-3 bg-gray-300 text-black font-bold mb-12' type='password' placeholder='Password' />
-          <input className='border border-black border-5 w-full p-3 bg-gray-300 text-black font-bold cursor-pointer hover:bg-yellow-500' type='submit' value='Log In' />
+          <input className='border border-black border-5 w-full p-3 bg-gray-300 text-black font-bold cursor-pointer hover:bg-yellow-500' type='submit' value='Sign Up' />
         </form>
         <p className=''>Already have an account? <a className='font-bold hover:text-yellow-500' href='/login'>Log in</a></p>
       </div>

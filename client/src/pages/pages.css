@@ -5,4 +5,22 @@
     width: 100%;
     height:100vh;
   }
+  .techhub {
+    width: 100%;
+    white-space: nowrap;
+    overflow: hidden; /* Ensure the overflow text is hidden */
+    border-right: 2px solid; /* To create the cursor effect */
+    animation:
+      typing 6s steps(16) infinite,
+      cursor .4s step-end infinite alternate;
+  }
+  
+  @keyframes typing {
+    from { width: 0; }
+    to { width: 100%; }
+  }
+  
+  @keyframes cursor {
+    50% { border-color: transparent; }
+  }
   

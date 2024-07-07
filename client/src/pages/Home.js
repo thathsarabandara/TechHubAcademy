@@ -47,9 +47,10 @@ function Home() {
     <div>
       <div className='bg-img flex items-center justify-left  p-6 md:p-12 lg:p-16'>
         <div className='text-left max-w-3xl'>
-          <h1 className='font-inter font-bold subpixel-antialiased text-xl md:text-3xl lg:text-6xl'>
-            Unlock Your Potential with TechHub Academy
-          </h1>
+          <h1 className='font-inter font-bold subpixel-antialiased text-xl md:text-3xl lg:text-6xl'>Unlock Your Potential with </h1>
+          <div className='inline-block'>
+            <h1 className='font-inter font-bold subpixel-antialiased text-xl md:text-3xl lg:text-6xl techhub py-2'>TechHub Academy  .</h1>
+          </div>
           <h2 className='font-inter subpixel-antialiased sm:text-xs md:text-lg lg:text-xl mt-4 m-3'>
           Welcome to Sara Academy, where learning knows no bounds. We believe that education is the key to personal and professional growth, and we're here to guide you on your journey to success.  
           </h2>

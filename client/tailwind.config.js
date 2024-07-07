@@ -8,6 +8,7 @@ module.exports = {
       fontFamily: {
         'saira-stencil': ['"Saira Stencil One"', 'sans-serif'],
         'sen':['Sen'],
+        'sansita':['Sansita'],
       },
     },
   },
