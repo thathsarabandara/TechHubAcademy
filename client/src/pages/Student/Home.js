@@ -1,7 +1,7 @@
 import React from 'react';
-import './pages.css';
-import Reviewcard from '../component/Reviewcard';
-import NoticeCard from '../component/NoticeCard';
+import '../../styles/Student/pages.css';
+import Reviewcard from '../../component/Student/Reviewcard';
+import NoticeCard from '../../component/Student/NoticeCard';
 
 function Home() {
     const reviews = [

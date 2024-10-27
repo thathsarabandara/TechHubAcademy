@@ -1,7 +1,7 @@
 import React from 'react';
-import CourseCard from '../component/CourseCard';
-import Category from '../component/Category';
-import CertificateCard from '../component/CertificateCard';
+import CourseCard from '../../component/Student/CourseCard';
+import Category from '../../component/Student/Category';
+import CertificateCard from '../../component/Student/CertificateCard';
 
 function Courses() {
   const Categories = [

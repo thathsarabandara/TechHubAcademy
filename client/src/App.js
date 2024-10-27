@@ -1,13 +1,13 @@
 import './App.css';
-import Footer from './component/Footer';
-import NavBar from './component/NavBar';
-import About from './pages/About';
-import Courses from './pages/Courses';
-import Home from './pages/Home';
+import Footer from './component/Student/Footer';
+import NavBar from './component/Student/NavBar';
+import About from './pages/Student/About';
+import Courses from './pages/Student/Courses';
+import Home from './pages/Student/Home';
 import { BrowserRouter as Router, Route ,Routes } from "react-router-dom";
-import StudentSignin from './pages/StudentSignin';
-import StudentLogin from './pages/StudentLogin';
-import Teach from './pages/Teach';
+import StudentSignin from './pages/Student/StudentSignin';
+import StudentLogin from './pages/Student/StudentLogin';
+import Teach from './pages/Student/Teach';
 
 function App() {
   return (
